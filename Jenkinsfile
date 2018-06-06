@@ -1,0 +1,1 @@
+stage('first-build') { echo 'first-build' }
